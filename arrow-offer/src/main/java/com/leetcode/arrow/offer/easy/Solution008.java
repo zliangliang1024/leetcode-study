@@ -1,4 +1,4 @@
-package com.leetcode.arrow.offer;
+package com.leetcode.arrow.offer.easy;
 
 
 /**

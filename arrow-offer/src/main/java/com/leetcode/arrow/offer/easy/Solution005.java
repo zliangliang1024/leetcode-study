@@ -1,4 +1,4 @@
-package com.leetcode.arrow.offer;
+package com.leetcode.arrow.offer.easy;
 
 /**
  * 剑指 Offer 07. 重建二叉树
